@@ -1,1 +1,3 @@
-# processing_and_generating_images
+# Многоклассовая классификация 
+- Датасет : CIFAR-10
+  
